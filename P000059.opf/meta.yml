@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000059
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཆོས་མངོན་པ་མཛོད་ཀྱི་བཤད་ཐབས་མན་ངག་ངོ་མཚར་གསུམ་ལྡན་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། གོ་རམས་པ་བསོད་ནམས་སེང་གེ།
-  sku: IBA-GR-02-1
   layers:
   - book_title
   - author
   - yigchung
+  id: IBA-GR-02-1
 web_metadata:
   title:
     en: Three Amazing Instructions on The Treasury of Abhidharma
